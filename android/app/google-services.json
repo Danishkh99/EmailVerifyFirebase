@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665401146563",
+    "project_id": "categories-f3bf7",
+    "storage_bucket": "categories-f3bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665401146563:android:eceee9bd6737880f537676",
+        "android_client_info": {
+          "package_name": "com.example.shirt_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665401146563-9e082unkm2ia768kl54jsirak6if6lhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2p1Ry7mYOmqX251jdqjvuOPB7CP3B8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665401146563-9e082unkm2ia768kl54jsirak6if6lhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
